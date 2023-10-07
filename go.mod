@@ -1,6 +1,6 @@
 module github.com/seipan/takowasa
 
-go 1.21.1
+go 1.21
 
 require go.uber.org/zap v1.26.0
 
