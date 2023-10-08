@@ -18,3 +18,15 @@
 
 </div>
 
+## Usage
+### install
+```
+go get -u github.com/seipan/takowasa
+```
+
+ ## License
+Code licensed under 
+[the MIT License](https://github.com/seipan/takowasa/blob/main/LICENSE).
+
+## Author
+[seipan](https://github.com/seipan).
